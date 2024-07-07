@@ -1,7 +1,9 @@
 COVID-19 Data Analysis Project
+
 Introduction
 
 This project involves an in-depth analysis of COVID-19 data using advanced SQL techniques. The dataset includes comprehensive information about the pandemic's impact across various countries and continents, such as the number of cases, deaths, vaccinations, and tests conducted. By leveraging SQL, we can derive meaningful insights to understand the spread and severity of COVID-19 globally.
+
 Dataset Description
 
 The dataset, CovidDeaths$, contains the following columns:
